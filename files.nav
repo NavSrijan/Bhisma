@@ -1,0 +1,11 @@
+#/home/thewhistler/.config/polybar/
+!config
+!bar.polybar
+!config.backup
+$
+#/home/thewhistler/.config/bspwm/
+!bspwmrc
+$
+#/home/thewhistler/thewhistlerScripts/
+!clock
+$
